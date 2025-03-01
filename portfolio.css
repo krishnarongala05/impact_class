@@ -1,0 +1,33 @@
+
+
+img{
+    border-radius: 70px;
+    margin-left: 530px;
+}
+.a{
+    text-align: center;
+}
+.b{
+    text-align: center;
+    height: 200px;
+    width: 500px;
+    margin-left: 330px;
+}
+.d{
+    height: 250px;
+    width: 500px;
+    border: solid 1px black;
+    margin-left: 330px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#box{
+    margin-top: 10px;
+    height: 310px;
+}
+
